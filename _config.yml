@@ -6,9 +6,13 @@ color:
   saturation: 0.9406439941376448
   rhythmicContrast: 0.8135320884175599
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
 name: Jeffrey's galleries
+navigation:
+  - name: About Jeffrey
+    id: e6a22b32-d287-46d4-bc43-6a3b32ebc316
+    type: content
