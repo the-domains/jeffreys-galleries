@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-29T23:35:01.593Z'
+datePublished: '2016-08-29T23:37:22.888Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-29T23:32:18.280Z'
+dateModified: '2016-08-29T23:37:22.309Z'
 title: About Jeffrey
 publisher: {}
 description: >-
@@ -17,8 +17,8 @@ description: >-
   me the happiest I have ever been. It has also brought my daughter and me
   closer together because she helps on shoots occasionally, and has taken an
   interest in the post-production side of photography.
-starred: false
 sourcePath: _posts/2016-08-29-about-jeffrey.md
+starred: false
 url: about-jeffrey/index.html
 _type: Article
 
